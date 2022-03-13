@@ -15,23 +15,23 @@ Unsupervised learning is used for, how to process data, how to cluster, how to r
 
 Using the Principal Component Analysis (PCA) algorithm to reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame.
 
-![This is an image](pic1.png)
+![This is an image](https://github.com/samiramghd/Cryptocurrencies/blob/main/image/pic1.PNG)
 
 Using the K-means algorithm, to create an elbow curve using hvPlot to find the best value for K from the pcs_df DataFrame. Then, run the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
 
-![This is an image](pic2.png)
+![This is an image](https://github.com/samiramghd/Cryptocurrencies/blob/main/image/pic2.PNG)
 
 Create a 3D scatter plot using the Plotly Express scatter_3d() function to plot the three clusters.
 
-![This is an image](pic3.png)
+![This is an image](https://github.com/samiramghd/Cryptocurrencies/blob/main/image/pic3.PNG)
 
 Create a table with tradable cryptocurrencies using the hvplot.table() function.
 
-![This is an image](pic4.png)
+![This is an image](https://github.com/samiramghd/Cryptocurrencies/blob/main/image/pic4.PNG)
 
 Then, Create an hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class", and have it show the CoinName when you hover over the the data point.
 
-![This is an image](pic5.png)
+![This is an image](https://github.com/samiramghd/Cryptocurrencies/blob/main/image/pic5.PNG)
 
-### Summary:
+
 
